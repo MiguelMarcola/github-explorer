@@ -5,6 +5,20 @@
 }
 
 body {
-    font: "Helvetica Neue", Arial, sans-serif;
+    font: Arial, "Helvetica", sans-serif;
     color: #121214;
+    background: #222;
+}
+
+.btn{
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #5532a6;
 }
