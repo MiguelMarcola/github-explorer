@@ -67,6 +67,7 @@ $ yarn dev
 
 # The application will open on the port:8080 - go to http://localhost:8080
 
+```
 
 ## 🛠 Tech Stack
 
@@ -76,8 +77,7 @@ The following tools were used in the construction of the project:
 
 -   React-dom
 -   Babel
--   Webpack
--   
+-   Webpack 
 
 > See the file  [package.json](https://github.com/MiguelMarcola/github-explorer/blob/main/package.json)
 

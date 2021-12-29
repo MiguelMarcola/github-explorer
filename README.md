@@ -81,7 +81,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   React-dom
 -   Babel
 -   Webpack
--   
 
 > Veja o arquivo  [package.json](https://github.com/MiguelMarcola/github-explorer/blob/main/package.json)
 
@@ -107,4 +106,4 @@ Feito com muita dedicação por Miguel Marçola 👋🏽 [Entre em contato!](htt
 
 ##  Versões do README
 
-[Português 🇧🇷](./README.md)  |  [Inglês](./README.md)  
+[Português 🇧🇷](./README.md)  |  [Inglês](./README-en.md)  
