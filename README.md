@@ -106,4 +106,4 @@ Feito com muita dedicação por Miguel Marçola 👋🏽 [Entre em contato!](htt
 
 ##  Versões do README
 
-[Português 🇧🇷](./README.md)  |  [Inglês](./README-en.md)  
+[Português 🇧🇷](./README.md)  |  [English](./README-en.md)  
