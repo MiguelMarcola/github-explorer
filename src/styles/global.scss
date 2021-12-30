@@ -7,7 +7,7 @@
 body {
     font-family: "Roboto";
     color: #121214;
-    background-image: linear-gradient(to right, #5532a6, #4208c9);
+    background: #0d1117;
 }
 
 .btn{
@@ -20,5 +20,75 @@ body {
     cursor: pointer;
     border: 1px solid transparent;
     border-radius: 4px;
-    background-color: #0a4c7c;
+    background-color: #42228a;
+}
+
+.main{
+    width: 95%;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+section.repository-list{
+    border-radius: 0.25rem ;
+    padding: 40px 20px;
+
+    h1{
+        margin-bottom: 16px;
+        text-align: center;
+        color: #fff;
+    }
+
+    h4{
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+    }
+
+    ul{
+        list-style: none;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    li{
+        margin: 20px 0 2% 20px ;
+        width: 30%;
+        border: solid 1px #30363d;
+        padding: 20px;
+        border-radius: 0.25rem;
+        box-shadow: 5px #ccc;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background: rgb(68, 65, 65);
+
+        p {
+            font-size: 14px;
+            color: #fff;
+            margin: 10px 0;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 16px;
+            text-decoration: none;
+            color: #fff;
+        }
+    }
+}
+
+@media screen and (max-width: 788px) {
+    section.repository-list{
+        ul{
+            flex-direction: column;
+        }
+
+        li{
+            width: 80%;
+        }
+    }
 }
