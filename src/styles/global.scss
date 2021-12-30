@@ -5,9 +5,9 @@
 }
 
 body {
-    font: Arial, "Helvetica", sans-serif;
+    font-family: "Roboto";
     color: #121214;
-    background: #222;
+    background-image: linear-gradient(to right, #5532a6, #4208c9);
 }
 
 .btn{
@@ -20,5 +20,5 @@ body {
     cursor: pointer;
     border: 1px solid transparent;
     border-radius: 4px;
-    background-color: #5532a6;
+    background-color: #0a4c7c;
 }
