@@ -13,7 +13,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/MiguelMarcola/github-explorer">
   
-  <a href="https://github.com/MiguelMarcola/github-explorer/commits/master">
+  <a href="https://github.com/MiguelMarcola/github-explorer/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MiguelMarcola/github-explorer">
   </a>
     
